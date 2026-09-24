@@ -2,7 +2,7 @@
 <!--                        🇬🇧 ENGLISH                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🎮 FNF Roblox Bot — Screen Reader + Auto-Press
+# 🎮 FNF-MINI-PROJECT — Screen Reader + Auto-Press Bot
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/version-8.3-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/author-ZHBR--228-purple.svg" alt="Author">
 </p>
 
 <p align="center">
@@ -19,6 +20,10 @@
 
 <p align="center">
   🎵 <a href="https://www.roblox.com/share?code=f31a2c4f820c0548800fbb67545be8f9&type=ExperienceDetails&stamp=1790237557391"><b>▶ Play the game on Roblox</b></a>
+</p>
+
+<p align="center">
+  Made by <a href="https://github.com/ZHBR-228"><b>ZHBR-228</b></a>
 </p>
 
 ---
@@ -45,7 +50,7 @@
 
 ## 🎯 What is this
 
-A **standalone bot** for FNF-style rhythm games on Roblox. It:
+**FNF-MINI-PROJECT** is a **standalone bot** for FNF-style rhythm games on Roblox. It:
 
 - 📸 **Reads the screen** via `mss` (screenshots every 8–16 ms)
 - 🎨 **Finds notes** by color (HSV) or brightness within configured zones
@@ -104,8 +109,8 @@ A **standalone bot** for FNF-style rhythm games on Roblox. It:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/USERNAME/fnf-roblox-bot.git
-cd fnf-roblox-bot
+git clone https://github.com/ZHBR-228/FNF-MINI-PROJECT.git
+cd FNF-MINI-PROJECT
 
 # 2. Install dependencies
 pip install mss numpy opencv-python keyboard pillow
@@ -319,6 +324,8 @@ A: `fnf_bot_config.json` and `fnf_bot_presets.json` — right next to `bot.py`. 
 
 **MIT License** — do whatever you want: fork, modify, sell, rewrite from scratch. Just don't remove the author attribution.
 
+Copyright (c) 2026 **ZHBR-228**
+
 ---
 
 ## 🙌 Contributing
@@ -337,7 +344,7 @@ Forks are welcome! If you built something cool — open a Pull Request or just s
 ---
 
 <p align="center">
-  Made with ♥ for the FNF community<br>
+  Made with ♥ by <a href="https://github.com/ZHBR-228"><b>ZHBR-228</b></a> for the FNF community<br>
   <b>Good luck with your runs! 🎵🎮</b>
 </p>
 
@@ -349,7 +356,7 @@ Forks are welcome! If you built something cool — open a Pull Request or just s
 
 ---
 
-# 🎮 FNF Roblox Bot — Чтение экрана + автонажатия
+# 🎮 FNF-MINI-PROJECT — Чтение экрана + автонажатия
 
 <p align="center">
   <b>Бот для Roblox-версии Friday Night Funkin'</b><br>
@@ -358,6 +365,10 @@ Forks are welcome! If you built something cool — open a Pull Request or just s
 
 <p align="center">
   🎵 <a href="https://www.roblox.com/share?code=f31a2c4f820c0548800fbb67545be8f9&type=ExperienceDetails&stamp=1790237557391"><b>▶ Играть в игру на Roblox</b></a>
+</p>
+
+<p align="center">
+  Автор — <a href="https://github.com/ZHBR-228"><b>ZHBR-228</b></a>
 </p>
 
 ---
@@ -384,7 +395,7 @@ Forks are welcome! If you built something cool — open a Pull Request or just s
 
 ## 🎯 Что это
 
-**Самостоятельный бот** для FNF-игр на платформе Roblox. Он:
+**FNF-MINI-PROJECT** — **самостоятельный бот** для FNF-игр на платформе Roblox. Он:
 
 - 📸 **Читает экран** через `mss` (скриншоты каждые 8–16 мс)
 - 🎨 **Находит ноты** по цвету (HSV) или яркости в заданных зонах
@@ -443,8 +454,8 @@ Forks are welcome! If you built something cool — open a Pull Request or just s
 
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/USERNAME/fnf-roblox-bot.git
-cd fnf-roblox-bot
+git clone https://github.com/ZHBR-228/FNF-MINI-PROJECT.git
+cd FNF-MINI-PROJECT
 
 # 2. Установи зависимости
 pip install mss numpy opencv-python keyboard pillow
@@ -658,6 +669,8 @@ pillow>=10.0.0
 
 **MIT License** — делай что хочешь, форкай, изменяй, продавай, переписывай с нуля. Только не удаляй упоминание автора.
 
+Copyright (c) 2026 **ZHBR-228**
+
 ---
 
 ## 🙌 Вклад
@@ -676,7 +689,7 @@ pillow>=10.0.0
 ---
 
 <p align="center">
-  Сделано с ♥ для FNF-сообщества<br>
+  Сделано с ♥ от <a href="https://github.com/ZHBR-228"><b>ZHBR-228</b></a> для FNF-сообщества<br>
   <b>Удачи в забегах! 🎵🎮</b>
 </p>
 
